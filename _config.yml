@@ -1,6 +1,6 @@
 title: Zhangshun's Blog
 author: Zhangshun Lu 
-url: https:/zhangshun.github.io # root address of the site
+# url: https:/zhangshun.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   “Tell me and I forget, teach me and I may remember, involve me and I learn.” — Benjamin Franklin
 permalink: /:slug
