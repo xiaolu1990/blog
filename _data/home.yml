@@ -10,9 +10,9 @@ project_entries:
     url: markdown-cheatsheet
     desc: This is an example project
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: YouTube Music Downloader 
+    url: https://github.com/xiaolu1990/Music_Downloader_Lite
+    desc: A minimal application to download music from YouTube. Written in Python and QtDesigner, simple to use. 
 
   - title: Project 3
     url: overview-post
