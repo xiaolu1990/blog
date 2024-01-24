@@ -1,14 +1,14 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
 project_entries:
   - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: markdown-cheatsheet
+    desc: This is an example project
 
   - title: Project 2
     url: overview-post
@@ -35,7 +35,7 @@ project_entries:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: NEW
 
   - title: Cookie
@@ -51,13 +51,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: homepage
-    url: https://zhangshun.github.io
+  - title: Homepage
+    url: https://zhangshun.github.io/blog
 
-
-  - title: github
+  - title: Github
     url: https://github.com/xiaolu1990
-
 
 misc_entries:
   - title: this is an example vertical list
@@ -90,5 +88,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
